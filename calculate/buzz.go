@@ -1,6 +1,6 @@
 package calculate
 
-func buzz(num int) bool {
+func Buzz(num int) bool {
 	if num%5 == 0 {
 		return true
 	}
